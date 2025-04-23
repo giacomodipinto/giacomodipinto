@@ -7,10 +7,8 @@ Currently CEO at **[Sherpo](https://sherpo.io)** — an AI-first, all-in-one whi
 
 ### Current obsessions  
 🧠 **Sherpo’s AI** autoblogger (**⍺lpha**)  
-⚙️ **Cloudflare Workers** and Durable Objects  
 🏗️ **Self-serve pure SaaS** tools with great tech  
 📈 **Counter-Positioning** & business model innovation  
-🤖 Generative AI and the **future of creation**
 
 ---
 
