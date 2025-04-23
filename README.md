@@ -1,7 +1,7 @@
 ## Hi there 👋  
 I'm **Giacomo**, a founder, investor, and content creator.
 
-Currently CEO at **[Sherpo](https://sherpo.io)** — an AI-first, all-in-one white-label platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
+Currently CEO at **[Sherpo](https://sherpo.io)**, where we're building an AI-first, all-in-one white-label platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
 
 ---
 
@@ -17,7 +17,7 @@ Currently CEO at **[Sherpo](https://sherpo.io)** — an AI-first, all-in-one whi
 📝 [My Sherpo page](https://edu.fossatoeconomico.it)  
 🐦 [X / Twitter](https://x.com/chatGDPs)  
 📬 [LinkedIn](https://www.linkedin.com/in/giacomodipinto/)  
-📸 [Instagram](https://instagram.com/fossatoeconomico)
+📸 [@fossatoeconomico](https://instagram.com/fossatoeconomico)
 
 <!--
 **giacomodipinto/giacomodipinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
