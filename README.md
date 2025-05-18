@@ -1,14 +1,7 @@
 ## Hi there 👋  
 I'm **Giacomo**, a founder, investor, and content creator.
 
-Currently CEO at **[Sherpo](https://sherpo.io)**, where we're building an AI-first, all-in-one white-label platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
-
----
-
-### Current obsessions  
-🧠 **Sherpo’s AI** autoblogger (**⍺lpha**)  
-🏗️ **Self-serve pure SaaS** tools with great tech  
-📈 **Counter-Positioning** & business model innovation  
+Currently CEO at **[Sherpo](https://sherpo.io)**, where we're building an AI-first, all-in-one platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
 
 ---
 
