@@ -1,7 +1,7 @@
 ## Hi there 👋  
-I'm **Giacomo**, a founder, investor, and content creator.
+I'm **Giacomo**, co-founder of **[Sherpo](https://sherpo.io)**, stock investor, and content creator at **[Fossato Economico](https://fossatoeconomico.it)**.
 
-Currently CEO at **[Sherpo](https://sherpo.io)**, where we're building an AI-first, all-in-one platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
+At **[Sherpo](https://sherpo.io)** we're building an AI-first, all-in-one platform empowering content creators to **build**, **distribute**, and **monetize** digital content with ease.
 
 ---
 
